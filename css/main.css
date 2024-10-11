@@ -110,6 +110,7 @@ body {
 .box4 q,
 .box5 q {
   color: var(--White);
+  line-height: 1.8;
 }
 .box4 {
   transform: translateY(20px);
